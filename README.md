@@ -1,2 +1,2 @@
-# express-basic
-Express basic tutorial
+# Express Basics 
+This is the tutorial for the popular expressjs framework...
